@@ -21,10 +21,6 @@ The main focus areas include:
 * SQL Indexes
 * Practical SQL Queries
 
-If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
----
-**Thank you for visiting this repository!**
-
 # Technologies used:
 * SQL
 * MySQL
@@ -47,3 +43,7 @@ If you find this repository useful for learning SQL, feel free to **star ⭐ the
 14. Viewing Indexes
 15. Dropping an Index
 16. Learning Objectives
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
